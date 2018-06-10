@@ -1,6 +1,6 @@
 # Placement_Stragegy
 
-文档见：https://yuque.com/chengyezhao/hawkqn/bl5btd/edit
+文档见：https://yuque.com/chengyezhao/hawkqn/bl5btd
 
 # 运行
 
