@@ -11,7 +11,7 @@ func Test_placement_3_reps_RandomAllDifferentIDConstraint(t *testing.T) {
 	i := 10001
 	//10个DC，每个DC有3个Rack，每个Rack有2个机器
 	fmt.Println("----Stores------")
-	for d := 1; d <= 10; d++ {
+	for d := 1; d <= 5; d++ {
 		for r := 1; r <= 3; r++ {
 			for h := 1; h <= 2; h++ {
 				disk := "hdd"
