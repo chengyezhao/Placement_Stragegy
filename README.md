@@ -2,6 +2,7 @@
 
 文档见：https://yuque.com/chengyezhao/hawkqn/bl5btd/edit
 
-#运行
+# 运行
 
+运行下面的命令会执行编译和测试
 ./install
